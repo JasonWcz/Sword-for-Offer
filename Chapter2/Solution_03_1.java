@@ -10,9 +10,13 @@ public class Solution_03_1 {
     // Return value:       true if the input is valid, and there are some duplications in the array number
     //                     otherwise false
     public boolean duplicate(int numbers[],int length,int [] duplication) {
-        if(length <= 0 || numbers.length == 0) return false;
+        if(length <= 0 || numbers.length == 0) {
+            return false;
+        }
         for(int i = 0; i < length; i++){
-            if(numbers[i] < 0 || numbers[i] > length - 1) return false;
+            if(numbers[i] < 0 || numbers[i] > length - 1) {
+                return false;
+            }
         }
         for(int i = 0; i < length; i++){
             while(numbers[i] != i){
