@@ -3,7 +3,7 @@ package SwordForOffer.Chapter2;
 /*
 **存在空数组异常
 */
-public class Solution_4 {
+public class Solution_04 {
     public boolean Find(int target, int [][] array) {
         int row, col, len = array.length;
         try {

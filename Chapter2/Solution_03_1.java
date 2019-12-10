@@ -1,6 +1,6 @@
 package SwordForOffer.Chapter2;
 
-public class Solution_3_1 {
+public class Solution_03_1 {
     // Parameters:
     //    numbers:     an array of integers
     //    length:      the length of array numbers

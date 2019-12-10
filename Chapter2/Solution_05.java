@@ -1,6 +1,6 @@
 package SwordForOffer.Chapter2;
 
-public class Solution_5 {
+public class Solution_05 {
     public String replaceSpace(StringBuffer str) {
         if(str == null || str.length() <= 0) return "";
         int len = str.length(), blank = 0;
@@ -24,9 +24,5 @@ public class Solution_5 {
             --p1;
         }
         return new String(str);
-    }
-    public static void main(String[] args) {
-        Solution_5 sl = new Solution_5();
-        System.out.println(sl.replaceSpace(new StringBuffer("We Are Happy")));
     }
 }

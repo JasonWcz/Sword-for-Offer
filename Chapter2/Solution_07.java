@@ -6,7 +6,7 @@ class TreeNode {
     TreeNode right;
     TreeNode(int x) { val = x; }
 }
-public class Solution_7 {
+public class Solution_07 {
     public TreeNode reConstructBinaryTree(int[] pre, int[] in) {
         try {
             if (pre == null || pre.length <= 0) return null;
@@ -41,5 +41,5 @@ public class Solution_7 {
         }
         return root;
     }
-    
+
 }

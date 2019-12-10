@@ -12,7 +12,7 @@ class TreeLinkNode {
     }
 }
 
-public class Solution_8 {
+public class Solution_08 {
     public TreeLinkNode GetNext(TreeLinkNode pNode) {
         if(pNode == null) return null;
         TreeLinkNode nNode = null;

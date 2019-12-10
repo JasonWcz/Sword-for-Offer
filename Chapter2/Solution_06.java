@@ -12,7 +12,7 @@ class ListNode {
     }
 }
 
-public class Solution_6 {
+public class Solution_06 {
     public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
         //递归写法
         if(listNode == null) return new ArrayList<Integer>();

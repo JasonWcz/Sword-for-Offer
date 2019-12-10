@@ -2,7 +2,7 @@ package SwordForOffer.Chapter2;
 
 import java.util.Stack;
 
-public class Solution_9 {
+public class Solution_09 {
     Stack<Integer> stack1 = new Stack<Integer>();
     Stack<Integer> stack2 = new Stack<Integer>();
 
