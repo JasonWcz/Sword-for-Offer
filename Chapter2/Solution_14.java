@@ -1,5 +1,8 @@
 package SwordForOffer.Chapter2;
 
+/**
+ * @author wcz_j
+ */
 public class Solution_14 {
     public int cutRope(int target) {
         if(target < 2) {
