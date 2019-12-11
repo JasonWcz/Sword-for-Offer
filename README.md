@@ -1,4 +1,4 @@
-I will keep updating this project after autumn term.
+keep updating~
 # 目录
 - 第二章：
     - [Problem 3 数组中重复的数字](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_03_1.java)
