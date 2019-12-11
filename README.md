@@ -14,4 +14,4 @@ keep updating~
     - [Problem 12  矩阵中的路径](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_12.java)
     - [Problem 13 机器人的运动范围](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_13.java)
     - [Problem 14 剪绳子](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_14.java)
-
+    - [Problem 15 二进制表示中1的个数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_15.java)
