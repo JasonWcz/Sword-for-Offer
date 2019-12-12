@@ -17,3 +17,4 @@ keep updating~
     - [Problem 15 二进制表示中1的个数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_15.java)
 - 第三章：
     - [Problem 16 数值的整数次方](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_16.java)
+    - [Problem 17 打印从1到最大的n位数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_17.java)
