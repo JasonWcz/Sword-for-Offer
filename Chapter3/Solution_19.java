@@ -15,7 +15,6 @@ public class Solution_19 {
             return false;
         }
         if(idxP + 1 != lenP && pattern[idxP + 1] == '*') {
-            System.out.println(111111);
             /**先检查index是否越界，否则当str为空的时候会抛异常*/
             if(idxS != lenS && (pattern[idxP] == str[idxS] || pattern[idxP] == '.')) {
                 /**如果该位置可以匹配，后面又有'*'，那么有三种情况
