@@ -18,3 +18,6 @@ keep updating~
 - 第三章：
     - [Problem 16 数值的整数次方](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_16.java)
     - [Problem 17 打印从1到最大的n位数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_17.java)
+    - [Problem 18 删除链表中重复的结点](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_18.java)
+
+
