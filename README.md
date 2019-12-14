@@ -21,5 +21,5 @@ keep updating~
     - [Problem 18 删除链表中重复的结点](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_18.java)
     - [Problem 19 正则表达式匹配](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_19.java)
     - [Problem 20 表示数值的字符串](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_20.java)
-
+    - [Problem 21 调整数组顺序使奇数位于偶数前面](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_21.java)
 
