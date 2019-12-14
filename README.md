@@ -1,6 +1,8 @@
 keep updating~
+#### [牛客网题集传送门](https://www.nowcoder.com/ta/coding-interviews?page=1)
+
 # 目录
-- 第二章：
+- ## 第二章：
     - [Problem 3 数组中重复的数字](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_03_1.java)
     - [Problem 4 二维数组中的查找](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_04.java)
     - [Problem 5 替换空格](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_05.java)
@@ -15,7 +17,7 @@ keep updating~
     - [Problem 13 机器人的运动范围](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_13.java)
     - [Problem 14 剪绳子](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_14.java)
     - [Problem 15 二进制表示中1的个数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_15.java)
-- 第三章：
+- ## 第三章：
     - [Problem 16 数值的整数次方](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_16.java)
     - [Problem 17 打印从1到最大的n位数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_17.java)
     - [Problem 18 删除链表中重复的结点](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_18.java)
