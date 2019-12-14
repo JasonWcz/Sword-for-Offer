@@ -1,5 +1,7 @@
-keep updating~
-#### [牛客网题集传送门](https://www.nowcoder.com/ta/coding-interviews?page=1)
+## 本项目是《剑指Offer》所有题目的Java实现
+## Status: Keep updating~
+
+### [牛客网题集传送门](https://www.nowcoder.com/ta/coding-interviews?page=1)
 
 # 目录
 - ## 第二章：
