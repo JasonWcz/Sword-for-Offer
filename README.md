@@ -29,3 +29,4 @@
     - [Problem 22 链表中倒数第k个结点](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_22.java)
     - [Problem 23 链表中环的入口结点](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_23.java)
     - [Problem 24 反转链表](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_24.java)
+    - [Problem 25 合并两个排序的链表](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_25.java)
