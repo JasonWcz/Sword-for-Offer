@@ -28,3 +28,4 @@
     - [Problem 21 调整数组顺序使奇数位于偶数前面](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_21.java)
     - [Problem 22 链表中倒数第k个结点](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_22.java)
     - [Problem 23 链表中环的入口结点](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_23.java)
+    - [Problem 24 反转链表](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_24.java)
