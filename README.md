@@ -33,3 +33,4 @@
     - [Problem 26 树的子结构](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter3/Solution_26.java)
 - ## 第四章：
     - [Problem 27 二叉树的镜像](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_27.java)
+    - [Problem 28 对称的二叉树](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_28.java)
