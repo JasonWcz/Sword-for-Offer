@@ -34,3 +34,4 @@
 - ## 第四章：
     - [Problem 27 二叉树的镜像](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_27.java)
     - [Problem 28 对称的二叉树](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_28.java)
+    - [Problem 29 顺时针打印矩阵](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_29.java)
