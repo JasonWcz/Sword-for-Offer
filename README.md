@@ -36,3 +36,4 @@
     - [Problem 28 对称的二叉树](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_28.java)
     - [Problem 29 顺时针打印矩阵](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_29.java)
     - [Problem 30 包含min函数的栈](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_30.java)
+    - [Problem 31 栈的压入、弹出序列](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_31.java)
