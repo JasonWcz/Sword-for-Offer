@@ -39,3 +39,4 @@
     - [Problem 31 栈的压入、弹出序列](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_31.java)
     - [Problem 32_1 从上到下打印二叉树](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_32_1.java)
     - [Problem 32_2 按之字形顺序打印二叉树](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_32_2.java)
+    - [Problem 33 二叉搜索树的后序遍历序列](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_33.java)
