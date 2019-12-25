@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Solution_32 {
+public class Solution_32_1 {
     static class TreeNode {
         int val = 0;
         TreeNode left = null;
