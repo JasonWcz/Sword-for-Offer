@@ -40,3 +40,4 @@
     - [Problem 32_1 从上到下打印二叉树](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_32_1.java)
     - [Problem 32_2 按之字形顺序打印二叉树](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_32_2.java)
     - [Problem 33 二叉搜索树的后序遍历序列](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_33.java)
+    - [Problem 34 二叉树中和为某一值的路径](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_34.java)
