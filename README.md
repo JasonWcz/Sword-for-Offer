@@ -43,3 +43,4 @@
     - [Problem 34 二叉树中和为某一值的路径](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_34.java)
     - [Problem 35 复杂链表的复制](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_35.java)
     - [Problem 36 二叉搜索树与双向链表](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_36.java)
+    - [Problem 37 序列化二叉树](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_37.java)
