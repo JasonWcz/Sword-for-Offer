@@ -45,3 +45,5 @@
     - [Problem 36 二叉搜索树与双向链表](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_36.java)
     - [Problem 37 序列化二叉树](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_37.java)
     - [Problem 38 字符串的排列](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_38.java)
+- ## 第五章：
+    - [Problem 39 数组中出现次数超过一半的数字](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_39.java)
