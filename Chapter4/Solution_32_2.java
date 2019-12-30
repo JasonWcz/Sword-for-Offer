@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Stack;
 
 public class Solution_32_2 {
-    static class TreeNode {
+    private static class TreeNode {
         int val = 0;
         TreeNode left = null;
         TreeNode right = null;

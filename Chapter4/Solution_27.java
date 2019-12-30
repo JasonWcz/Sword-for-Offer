@@ -1,7 +1,7 @@
 package SwordForOffer.Chapter4;
 
-public class Solution_27 {
-    public class TreeNode {
+class Solution_27 {
+    private class TreeNode {
         int val = 0;
         TreeNode left = null;
         TreeNode right = null;
