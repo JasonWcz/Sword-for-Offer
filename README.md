@@ -44,3 +44,4 @@
     - [Problem 35 复杂链表的复制](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_35.java)
     - [Problem 36 二叉搜索树与双向链表](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_36.java)
     - [Problem 37 序列化二叉树](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_37.java)
+    - [Problem 38 字符串的排列](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter4/Solution_38.java)
