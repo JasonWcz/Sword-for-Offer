@@ -1,13 +1,8 @@
-package SwordForOffer.Chapter4;
+package SwordForOffer.Chapter5;
 
 import java.util.Random;
 
 public class Solution_39 {
-    public static void main(String[] args) {
-        Solution_39 obj = new Solution_39();
-        int [] a = {1,2,3,2,4,2,5,2,3};
-        obj.MoreThanHalfNum_Solution(a);
-    }
 
     /**
      * Partition解决方法
