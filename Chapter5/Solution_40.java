@@ -66,6 +66,7 @@ public class Solution_40 {
      * 最大堆解法
      * 用一个k大小的堆来维护最小的k个数
      * 适合海量数据的情况，并且不改变原数组
+     * 时间复杂度O(nlogk)
      * @param input
      * @param k
      * @return
