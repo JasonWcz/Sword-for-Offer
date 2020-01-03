@@ -52,3 +52,4 @@
     - [Problem 42 连续子数组的最大和](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_42.java)
     - [Problem 43 1~n整数中1出现的次数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_43.java)
     - [Problem 44 数字序列中某一位数字](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_44.java)
+    - [Problem 45 把数组排成最小的数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_45.java)
