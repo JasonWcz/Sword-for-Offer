@@ -54,3 +54,4 @@
     - [Problem 44 数字序列中某一位数字](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_44.java)
     - [Problem 45 把数组排成最小的数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_45.java)
     - [Problem 46 把数字翻译成字符串](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_46.java)
+    - [Problem 47 礼物的最大价值](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_47.java)
