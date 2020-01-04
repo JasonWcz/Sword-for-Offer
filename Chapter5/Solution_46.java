@@ -14,6 +14,9 @@ public class Solution_46 {
      * @return
      */
     public int getTranslationCount(String s) {
+        if(s == null || s.length() == 0) {
+            return 0;
+        }
         int count;
         int [] dp = new int[s.length()];
         for(int i = s.length() - 1; i >= 0; --i) {
