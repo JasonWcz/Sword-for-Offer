@@ -56,3 +56,4 @@
     - [Problem 46 把数字翻译成字符串](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_46.java)
     - [Problem 47 礼物的最大价值](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_47.java)
     - [Problem 48 最长不含重复字符的子字符串](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_48.java)
+    - [Problem 49 丑数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_49.java)
