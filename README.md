@@ -55,3 +55,4 @@
     - [Problem 45 把数组排成最小的数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_45.java)
     - [Problem 46 把数字翻译成字符串](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_46.java)
     - [Problem 47 礼物的最大价值](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_47.java)
+    - [Problem 48 最长不含重复字符的子字符串](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_48.java)
