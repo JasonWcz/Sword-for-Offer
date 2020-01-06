@@ -58,3 +58,4 @@
     - [Problem 48 最长不含重复字符的子字符串](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_48.java)
     - [Problem 49 丑数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_49.java)
     - [Problem 50_1 第一个只出现一次的字符位置](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_50_1.java)
+    - [Problem 50_2 字符流中第一个不重复的字符](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_50_2.java)
