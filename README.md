@@ -60,3 +60,4 @@
     - [Problem 50_1 第一个只出现一次的字符位置](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_50_1.java)
     - [Problem 50_2 字符流中第一个不重复的字符](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_50_2.java)
     - [Problem 51 数组中的逆序对](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_51.java)
+    - [Problem 52 两个链表的第一个公共结点](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_52.java)
