@@ -62,4 +62,5 @@
     - [Problem 51 数组中的逆序对](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_51.java)
     - [Problem 52 两个链表的第一个公共结点](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_52.java)
 - ## 第六章：
-    - [Problem 53_1 数字在排序数组中出现的次数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_52.java)
+    - [Problem 53_1 数字在排序数组中出现的次数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_53_1.java)
+    
