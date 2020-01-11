@@ -61,3 +61,5 @@
     - [Problem 50_2 字符流中第一个不重复的字符](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_50_2.java)
     - [Problem 51 数组中的逆序对](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_51.java)
     - [Problem 52 两个链表的第一个公共结点](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_52.java)
+- ## 第六章：
+    - [Problem 53_1 数字在排序数组中出现的次数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter5/Solution_52.java)
