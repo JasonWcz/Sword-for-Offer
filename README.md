@@ -64,4 +64,5 @@
 - ## 第六章：
     - [Problem 53_1 数字在排序数组中出现的次数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_53_1.java)
     - [Problem 53_2 0到n-1中缺失的数字](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_53_2.java)
+    - [Problem 53_3 数组中数值和下标相等的元素](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_53_3.java)
     
