@@ -66,4 +66,5 @@
     - [Problem 53_2 0到n-1中缺失的数字](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_53_2.java)
     - [Problem 53_3 数组中数值和下标相等的元素](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_53_3.java)
     - [Problem 54 二叉搜索树的第K大节点](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_54.java)
+    - [Problem 55_1 二叉树的深度](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_55_1.java)
     
