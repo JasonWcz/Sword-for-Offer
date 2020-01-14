@@ -68,4 +68,5 @@
     - [Problem 54 二叉搜索树的第K大节点](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_54.java)
     - [Problem 55_1 二叉树的深度](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_55_1.java)
     - [Problem 55_2 平衡二叉树](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_55_2.java)
+    - [Problem 56_1 数组中只出现一次的数字(异或运算)](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_56_1.java)
     
