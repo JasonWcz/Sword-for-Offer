@@ -72,4 +72,5 @@
     - [Problem 56_2 数组中唯一出现一次的数字(其余都出现三次)](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_56_2.java)
     - [Problem 57_1 和为S的两个数字](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_57_1.java)
     - [Problem 57_2 和为S的连续正数序列](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_57_2.java)
+    - [Problem 58_1 翻转单词顺序列](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_58_1.java)
     
