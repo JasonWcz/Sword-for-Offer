@@ -2,7 +2,7 @@
 ## Status: Keep updating~
 
 ### [牛客网题集传送门](https://www.nowcoder.com/ta/coding-interviews?page=1)
-### [AcWing传送门[^牛客没有的题可以在这补，但测试用例似乎没有牛客严格]](https://www.acwing.com/problem/)
+### [AcWing传送门][^牛客没有的题可以在这补，但测试用例似乎没有牛客严格](https://www.acwing.com/problem/)
 # 目录
 - ## 第二章：
     - [Problem 3 数组中重复的数字](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter2/Solution_03_1.java)
