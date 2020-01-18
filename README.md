@@ -74,4 +74,5 @@
     - [Problem 57_2 和为S的连续正数序列](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_57_2.java)
     - [Problem 58_1 翻转单词顺序列](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_58_1.java)
     - [Problem 58_2 左旋转字符串](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_58_2.java)
+    - [Problem 59_1 滑动窗口的最大值](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_59_1.java)
     
