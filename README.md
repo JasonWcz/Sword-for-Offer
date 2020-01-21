@@ -82,4 +82,4 @@
     - [Problem 63 股票的最大利润](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_63.java)
     - [Problem 64 求1+2+3+...+n](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_64.java)
     - [Problem 65 不用加减乘除做加法(位运算)](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_65.java)
-    
+    - [Problem 66 构建乘积数组](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_66.java)    
