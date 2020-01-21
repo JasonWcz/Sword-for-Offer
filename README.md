@@ -78,4 +78,5 @@
     - [Problem 59_2 实现拥有max()方法的队列](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_59_2.java)
     - [Problem 60 n个骰子的点数](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_60.java)
     - [Problem 61 扑克牌中的顺子](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_61.java)
+    - [Problem 62 圆圈中最后剩下的数(约瑟夫环)](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_62.java)
     
