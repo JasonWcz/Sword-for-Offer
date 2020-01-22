@@ -1,5 +1,5 @@
 ## 本项目是《剑指Offer》所有题目的Java实现
-## Status: Keep updating~
+## Status: Update Completed
 
 ### [牛客网题集传送门](https://www.nowcoder.com/ta/coding-interviews?page=1)
 ### [AcWing传送门](https://www.acwing.com/problem/) <u>牛客没有的题可以在这补，但测试用例似乎没有牛客严格</u>
@@ -83,3 +83,4 @@
     - [Problem 64 求1+2+3+...+n](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_64.java)
     - [Problem 65 不用加减乘除做加法(位运算)](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_65.java)
     - [Problem 66 构建乘积数组](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/Solution_66.java)    
+    - [Problem 最低公共祖先(Lowest Common Ancestor LCA)](https://github.com/JasonWcz/Sword-for-Offer/blob/master/Chapter6/SolutionLCA.java)
