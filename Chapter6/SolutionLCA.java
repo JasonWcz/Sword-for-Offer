@@ -56,9 +56,9 @@ public class SolutionLCA {
             return true;
         }
         path.add(root);
-       if (getPath(root.left, node, path)) {
+        if (getPath(root.left, node, path)) {
            return true;
-       }
+        }
         if (getPath(root.right, node, path)) {
             return true;
         }
